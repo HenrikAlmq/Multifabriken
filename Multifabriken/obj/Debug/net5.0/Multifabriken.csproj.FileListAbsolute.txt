@@ -1,0 +1,16 @@
+Q:\Webbutvecklare.NET\Repos\C#\multifabriken-HenrikAlmq\Multifabriken\bin\Debug\net5.0\Multifabriken.exe
+Q:\Webbutvecklare.NET\Repos\C#\multifabriken-HenrikAlmq\Multifabriken\bin\Debug\net5.0\Multifabriken.deps.json
+Q:\Webbutvecklare.NET\Repos\C#\multifabriken-HenrikAlmq\Multifabriken\bin\Debug\net5.0\Multifabriken.runtimeconfig.json
+Q:\Webbutvecklare.NET\Repos\C#\multifabriken-HenrikAlmq\Multifabriken\bin\Debug\net5.0\Multifabriken.runtimeconfig.dev.json
+Q:\Webbutvecklare.NET\Repos\C#\multifabriken-HenrikAlmq\Multifabriken\bin\Debug\net5.0\Multifabriken.dll
+Q:\Webbutvecklare.NET\Repos\C#\multifabriken-HenrikAlmq\Multifabriken\bin\Debug\net5.0\ref\Multifabriken.dll
+Q:\Webbutvecklare.NET\Repos\C#\multifabriken-HenrikAlmq\Multifabriken\bin\Debug\net5.0\Multifabriken.pdb
+Q:\Webbutvecklare.NET\Repos\C#\multifabriken-HenrikAlmq\Multifabriken\obj\Debug\net5.0\Multifabriken.csproj.AssemblyReference.cache
+Q:\Webbutvecklare.NET\Repos\C#\multifabriken-HenrikAlmq\Multifabriken\obj\Debug\net5.0\Multifabriken.GeneratedMSBuildEditorConfig.editorconfig
+Q:\Webbutvecklare.NET\Repos\C#\multifabriken-HenrikAlmq\Multifabriken\obj\Debug\net5.0\Multifabriken.AssemblyInfoInputs.cache
+Q:\Webbutvecklare.NET\Repos\C#\multifabriken-HenrikAlmq\Multifabriken\obj\Debug\net5.0\Multifabriken.AssemblyInfo.cs
+Q:\Webbutvecklare.NET\Repos\C#\multifabriken-HenrikAlmq\Multifabriken\obj\Debug\net5.0\Multifabriken.csproj.CoreCompileInputs.cache
+Q:\Webbutvecklare.NET\Repos\C#\multifabriken-HenrikAlmq\Multifabriken\obj\Debug\net5.0\Multifabriken.dll
+Q:\Webbutvecklare.NET\Repos\C#\multifabriken-HenrikAlmq\Multifabriken\obj\Debug\net5.0\ref\Multifabriken.dll
+Q:\Webbutvecklare.NET\Repos\C#\multifabriken-HenrikAlmq\Multifabriken\obj\Debug\net5.0\Multifabriken.pdb
+Q:\Webbutvecklare.NET\Repos\C#\multifabriken-HenrikAlmq\Multifabriken\obj\Debug\net5.0\Multifabriken.genruntimeconfig.cache
