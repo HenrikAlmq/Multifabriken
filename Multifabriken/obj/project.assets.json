@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "Q:\\Webbutvecklare.NET\\Repos\\C#\\multifabriken-HenrikAlmq\\Multifabriken\\Multifabriken.csproj",
+      "projectUniqueName": "q:\\Webbutvecklare.NET\\Repos\\C#\\Multifabriken\\Multifabriken\\Multifabriken.csproj",
       "projectName": "Multifabriken",
-      "projectPath": "Q:\\Webbutvecklare.NET\\Repos\\C#\\multifabriken-HenrikAlmq\\Multifabriken\\Multifabriken.csproj",
+      "projectPath": "q:\\Webbutvecklare.NET\\Repos\\C#\\Multifabriken\\Multifabriken\\Multifabriken.csproj",
       "packagesPath": "C:\\Users\\Henke\\.nuget\\packages\\",
-      "outputPath": "Q:\\Webbutvecklare.NET\\Repos\\C#\\multifabriken-HenrikAlmq\\Multifabriken\\obj\\",
+      "outputPath": "q:\\Webbutvecklare.NET\\Repos\\C#\\Multifabriken\\Multifabriken\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Henke\\AppData\\Roaming\\NuGet\\NuGet.Config",

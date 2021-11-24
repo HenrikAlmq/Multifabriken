@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "Q:\\Webbutvecklare.NET\\Repos\\C#\\multifabriken-HenrikAlmq\\Multifabriken\\Multifabriken.csproj": {}
+    "Q:\\Webbutvecklare.NET\\Repos\\C#\\Multifabriken\\Multifabriken\\Multifabriken.csproj": {}
   },
   "projects": {
-    "Q:\\Webbutvecklare.NET\\Repos\\C#\\multifabriken-HenrikAlmq\\Multifabriken\\Multifabriken.csproj": {
+    "Q:\\Webbutvecklare.NET\\Repos\\C#\\Multifabriken\\Multifabriken\\Multifabriken.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "Q:\\Webbutvecklare.NET\\Repos\\C#\\multifabriken-HenrikAlmq\\Multifabriken\\Multifabriken.csproj",
+        "projectUniqueName": "Q:\\Webbutvecklare.NET\\Repos\\C#\\Multifabriken\\Multifabriken\\Multifabriken.csproj",
         "projectName": "Multifabriken",
-        "projectPath": "Q:\\Webbutvecklare.NET\\Repos\\C#\\multifabriken-HenrikAlmq\\Multifabriken\\Multifabriken.csproj",
+        "projectPath": "Q:\\Webbutvecklare.NET\\Repos\\C#\\Multifabriken\\Multifabriken\\Multifabriken.csproj",
         "packagesPath": "C:\\Users\\Henke\\.nuget\\packages\\",
-        "outputPath": "Q:\\Webbutvecklare.NET\\Repos\\C#\\multifabriken-HenrikAlmq\\Multifabriken\\obj\\",
+        "outputPath": "Q:\\Webbutvecklare.NET\\Repos\\C#\\Multifabriken\\Multifabriken\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Henke\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -18,7 +18,7 @@ namespace Multifabriken
 
         public override void showOrder()
         {
-            Console.WriteLine($"Du har valt att beställa en bil med regnummer: {inputReg}, färg: {inputColor} och bilmärke: {inputCar}");
+            Console.WriteLine($"Du har valt att beställa en bil med regnummer: {inputReg.ToUpper()}, färg: {inputColor} och bilmärke: {inputCar}");
         }
 
         
